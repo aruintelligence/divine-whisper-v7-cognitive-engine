@@ -1,2 +1,13 @@
-# divine-whisper-v7-cognitive-engine
-Divine Whisper v7 (7.3–7.7) monolithic cognitive engine: 12-Archangel council, inward-physics state evolution, reputation weighting, memory graph, belief + regret routing, self-optimization loop. Runnable multi-agent intelligence under Inward Physics. Co-authored by Daniel Jacob Read IV &amp; Shane Travis Horman (ĀRU Intelligence). MIT-licensed.
+# Divine Whisper v7 Cognitive Engine (v7.3 → v7.7)
+
+Single-file multi-agent engine with:
+- 12-Archangel council deliberation
+- Inward Physics state (A/D/C/F/λ/S)
+- Reputation weighting & self-optimization
+- Memory graph & ledger logging
+- Belief state + regret routing
+
+**Quick Start**
+```bash
+pip install numpy
+python dw_v7_cognitive_engine.py

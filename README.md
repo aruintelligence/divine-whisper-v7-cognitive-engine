@@ -29,3 +29,11 @@ The command writes `artifacts/routing_comparison.json`; identical arguments prod
 The skill table is invented and visible in the source and JSON. This result tests whether a router can exploit **known, synthetic category structure** under partial feedback. It does not demonstrate agent intelligence, self-improvement on real tasks, consensus, generalization, or a breakthrough. Different skill tables, exploration settings, and longer runs can change the ranking.
 
 Original Divine Whisper concept: Daniel Jacob Read IV and Shane Travis Horman. MIT licensed.
+
+---
+
+### Inward Physics research navigation
+
+[Complete Inward Physics index](https://github.com/aruintelligence/aruintelligence/blob/main/INWARD_PHYSICS.md) · [Daniel Jacob Read IV’s ORCID](https://orcid.org/0009-0000-6133-1872) · [Zenodo DOI series (record index)](https://github.com/aruintelligence/aruintelligence/blob/main/INWARD_PHYSICS.md#zenodo-record-index)
+
+These links index project-authored proposals and simulations; they do not imply independent validation of a physical model.
